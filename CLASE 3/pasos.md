@@ -1,4 +1,4 @@
-**Si empezamos desde cero**
+# Si empezamos desde cero
 
     *git init
     *git add .
